@@ -1,2 +1,2 @@
-# windows_resource_monitor
-windows_resource_monitor
+# Windows Resource Monitor
+
